@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HangX-backend.iml" filepath="$PROJECT_DIR$/.idea/HangX-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HangX.iml" filepath="$PROJECT_DIR$/.idea/HangX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HangX-backend/HangX-backend.iml" filepath="$PROJECT_DIR$/HangX-backend/HangX-backend.iml" />
     </modules>
   </component>
 </project>
